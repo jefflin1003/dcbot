@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-TOKEN="MTE2NTg5MDY0NzI0OTY3MDE3NQ.G-Tx_a.cOovBvbv7eTcUFQ45taF12OdTd-OTJRS6HtCm0"
+TOKEN=""
 
 # Bot object、設定指令開頭
 client = commands.Bot(command_prefix='!', intents=discord.Intents.all())
